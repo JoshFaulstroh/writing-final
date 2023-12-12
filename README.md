@@ -1,10 +1,10 @@
 # writing-final
 
 This is the code for my final project in my College Writing 1 class
-for the Fall 2023 semester. It includes three web pages:
-  A home page
-  A remix page
-  A global revision page
+for the Fall 2023 semester. It includes three web pages: <br>
+  A home page <br>
+  A remix page <br>
+  A global revision page <br>
 
 Remix: Literacy narrative <br>
   Instead of writing about myeself, I will write about the solar system 
